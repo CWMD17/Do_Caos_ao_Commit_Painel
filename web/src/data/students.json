@@ -126,5 +126,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/thuliosdcosta-arch.png",
     "profileUrl": "https://github.com/thuliosdcosta-arch"
+  },
+  { 
+    "id": "15",
+    "fullName": "André",
+    "occupation": "vagabundo",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/andrelimdo.png",
+    "profileUrl": "https://github.com/andrelimdo"
   }
 ]
