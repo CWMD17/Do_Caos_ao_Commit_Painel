@@ -118,5 +118,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/ArthurDias26.png",
     "profileUrl": "https://github.com/ArthurDias26"
+  },
+  {
+    "id": "14",
+    "fullName": "Thulio Santos",
+    "occupation": "Estudante",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/thuliosdcosta-arch.png",
+    "profileUrl": "https://github.com/thuliosdcosta-arch"
   }
 ]
