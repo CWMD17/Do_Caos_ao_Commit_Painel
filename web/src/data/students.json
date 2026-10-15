@@ -182,5 +182,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/Likeadragon88.png",
     "profileUrl": "https://github.com/Likeadragon88"
+  },
+  {
+    "id": "20",
+    "fullName": "Dino",
+    "occupation": "Técnico de Suporte",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/diegogasparino.png",
+    "profileUrl": "https://github.com/diegogasparino"
   }
 ]
