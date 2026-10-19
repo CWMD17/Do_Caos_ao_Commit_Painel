@@ -159,6 +159,13 @@
     "imageUrl": "https://github.com/Eros-TI.png",
     "profileUrl": "https://github.com/Eros-TI"
   },
+    {
+    "id": "16",
+    "fullName": "Nicolas",
+    "occupation": "Piloto da BMW",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/NicolasSantos01-Nps.png",
+    "profileUrl": "https://github.com/NicolasSantos01-Nps"
    {
     "id": "18",
     "fullName": "Eduardo Miguel Medeiros",
@@ -222,5 +229,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/matheusantcampoio-07.png",
     "profileUrl": "https://github.com/matheusantcampoio-07"
+  },
+  {
+    "id": "23",
+    "fullName": "Nicolas",
+    "occupation": "Piloto da BMW",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/NicolasSantos01-Nps.png",
+    "profileUrl": "https://github.com/NicolasSantos01-Nps"
   }
 ]
