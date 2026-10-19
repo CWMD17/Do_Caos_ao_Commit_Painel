@@ -167,13 +167,6 @@
     "imageUrl": "https://github.com/Eros-TI.png",
     "profileUrl": "https://github.com/Eros-TI"
   },
-  {
-    "id": "16",
-    "fullName": "Nicolas",
-    "occupation": "Piloto da BMW",
-    "completionYear": 2026,
-    "imageUrl": "https://github.com/NicolasSantos01-Nps.png",
-    "profileUrl": "https://github.com/NicolasSantos01-Nps"
    {
     "id": "18",
     "fullName": "Eduardo Miguel Medeiros",
@@ -255,11 +248,25 @@
     "profileUrl": "https://github.com/yuitiyamada4-ui"
   },
   {
-    "id": "18",
+    "id": "24",
     "fullName": "Isac Vaqueiro",
     "occupation": "AVERIGUADOR DE RESENHAS 👀👀",
     "completionYear": 2026,
     "imageUrl": "https://github.com/isacvaqueiro1623.png",
     "profileUrl": "https://github.com/isacvaqueiro1623"
-  }
+  },
+      "id": "25",
+    "fullName": "Rafael  Kühn",
+    "occupation": "Estudante 1°Ds Ams Etec",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/ScriptsHubs2.png",
+    "profileUrl": "https://github.com/ScriptsHubs2"
+  },
+  {
+    "id": "26",
+    "fullName": "Nicolas",
+    "occupation": "Piloto da BMW",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/NicolasSantos01-Nps.png",
+    "profileUrl": "https://github.com/NicolasSantos01-Nps"
 ]
