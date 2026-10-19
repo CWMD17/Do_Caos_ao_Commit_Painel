@@ -255,7 +255,8 @@
     "imageUrl": "https://github.com/isacvaqueiro1623.png",
     "profileUrl": "https://github.com/isacvaqueiro1623"
   },
-      "id": "25",
+  {
+    "id": "25",
     "fullName": "Rafael  Kühn",
     "occupation": "Estudante 1°Ds Ams Etec",
     "completionYear": 2026,
@@ -269,4 +270,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/NicolasSantos01-Nps.png",
     "profileUrl": "https://github.com/NicolasSantos01-Nps"
+  },
+  {
+    "id": "27",
+    "fullName": "Lázaro Barbosa",
+    "occupation": "Estudante",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/VictorNovais606.png",
+    "profileUrl": "https://github.com/VictorNovais606"
+  }
 ]
