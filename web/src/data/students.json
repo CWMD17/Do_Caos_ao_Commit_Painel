@@ -167,7 +167,7 @@
     "imageUrl": "https://github.com/Eros-TI.png",
     "profileUrl": "https://github.com/Eros-TI"
   },
-    {
+  {
     "id": "16",
     "fullName": "Nicolas",
     "occupation": "Piloto da BMW",
@@ -253,5 +253,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/yuitiyamada4-ui.png",
     "profileUrl": "https://github.com/yuitiyamada4-ui"
+  },
+  {
+    "id": "18",
+    "fullName": "Isac Vaqueiro",
+    "occupation": "AVERIGUADOR DE RESENHAS 👀👀",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/isacvaqueiro1623.png",
+    "profileUrl": "https://github.com/isacvaqueiro1623"
   }
 ]
