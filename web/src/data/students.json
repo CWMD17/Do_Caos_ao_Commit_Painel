@@ -190,5 +190,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/diegogasparino.png",
     "profileUrl": "https://github.com/diegogasparino"
+  },
+  {
+    "id": "21",
+    "fullName": "Vinicius Passos",
+    "occupation": "Estudante de Desenvolvimento de Sistemas",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/Vinicoutzzz.png",
+    "profileUrl": "https://github.com/Vinicoutzzz"
   }
 ]
